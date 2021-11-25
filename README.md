@@ -3,7 +3,7 @@
 ![I am a Student and a Full Stack Developer.](https://pbs.twimg.com/profile_banners/1257795394668384256/1601203973/1080x360)
 
 My name is Saify. Now I'm 21 years old. 
-I am also enthusiastic about fitness and technology. My hobbies are lrarning new things , explore various types of cooking and listening to podcasts.I have a big interest in various technologies and Web Development. I am also passionate about Music.
+I am also enthusiastic about fitness and technology. My hobbies are learning new things , explore various types of cooking and listening to podcasts.I have a big interest in various technologies and Web Development. I am also passionate about versatile sports.
 
 Skills: REACT / JS / HTML / CSS
 
