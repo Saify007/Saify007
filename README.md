@@ -12,7 +12,7 @@ Skills: REACT / JS / HTML / CSS
 - 👯 I’m looking to collaborate on Github 
 - 🤔 I’m looking for help with my expertness and wisdom 
 - 💬 Ask me about Web Development 
-- 📫 How to reach me: saify.abid1000@gmail.comsaify.abid1000@gmail.com
+- 📫 How to reach me: saify.abid1000@gmail.com
 - ⚡ Fun fact: If i could have any superpower, it would be  mind reading 
 
 
@@ -33,7 +33,7 @@ Skills: REACT / JS / HTML / CSS
      </tr>
       <tr>
        <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Saify007&show_icons=true&theme=dark"> </td>
-       <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishormorol&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
+       <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saify007&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
      </tr>
    </table>
 </p>
@@ -56,4 +56,4 @@ Skills: REACT / JS / HTML / CSS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Saify007)  
 
-![Profile views](https://gpvc.arturio.dev/Saify007)  
+ 
