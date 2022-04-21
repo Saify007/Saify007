@@ -1,10 +1,7 @@
 ### Hi there 👋, I'm Saify
 #### I am a Student and a Full Stack Developer.
-![I am a Student and a Full Stack Developer.]
 
-My name is Saify. Now I'm 21 years old. 
-I am also enthusiastic about fitness and technology. My hobbies are learning new things , explore various types of cooking and listening to podcasts.I have a big interest in various technologies and Web Development. I am also passionate about versatile sports.
-
+Ovation to my profile. I am Saify. I am currently studying in Computer Science Department at AIUB and also looking for an Internship program opportunity. Which might be any sector in Computer Science and help to boost up my knowledge and also uplift my career path. I am enthusiastic about technology and fitness. My favorite activities are learning new things, exploring various types of cooking, and listening to podcasts. I have a big interest in IoT technologies and Web Development. I am also passionate about various types of sports.
 Skills: REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on A web based project  
@@ -15,10 +12,6 @@ Skills: REACT / JS / HTML / CSS
 - 📫 How to reach me: saify.abid1000@gmail.com
 - ⚡ Fun fact: If i could have any superpower, it would be  mind reading 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Saify007)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/saify-abid-bhuiyan-b510791a7//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/saifyabid.bhuiyan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/lokosavik/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/lokosavik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCsNP1yCj3oN4ND5MU65E_BA)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 <p align="center">
 <a href="mailto:saify.abid1000@gmail.comsaify.abid1000@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-saify.abid1000@gmail.com-red?style=flat&logo=gmail"></a>
