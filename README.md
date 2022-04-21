@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Saify
 #### I am a Student and a Full Stack Developer.
-![I am a Student and a Full Stack Developer.](https://pbs.twimg.com/profile_banners/1257795394668384256/1601203973/1080x360)
+![I am a Student and a Full Stack Developer.]
 
 My name is Saify. Now I'm 21 years old. 
 I am also enthusiastic about fitness and technology. My hobbies are learning new things , explore various types of cooking and listening to podcasts.I have a big interest in various technologies and Web Development. I am also passionate about versatile sports.
@@ -22,9 +22,9 @@ Skills: REACT / JS / HTML / CSS
 
 <p align="center">
 <a href="mailto:saify.abid1000@gmail.comsaify.abid1000@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-saify.abid1000@gmail.com-red?style=flat&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/saifyabidbhuiyan"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-kishormorol-blue?style=flat&logo=linkedin"></a>
 </p>
   
-
 <p align="center">
    <table>
       <tr>
@@ -41,15 +41,11 @@ Skills: REACT / JS / HTML / CSS
 ![Profile views](https://gpvc.arturio.dev/Saify007)
 
 
-
-
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Saify007)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saify007)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Saify007&show_icons=true)  
-
+ 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Saify007)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Saify007)  
