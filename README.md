@@ -22,7 +22,7 @@ Skills: REACT / JS / HTML / CSS
 
 <p align="center">
 <a href="mailto:saify.abid1000@gmail.comsaify.abid1000@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-saify.abid1000@gmail.com-red?style=flat&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/saifyabidbhuiyan"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-kishormorol-blue?style=flat&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/saifyabidbhuiyan"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Saify Abid Bhuiyan-blue?style=flat&logo=linkedin"></a>
 </p>
   
 <p align="center">
