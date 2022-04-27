@@ -36,8 +36,6 @@ Skills: REACT / JS / HTML / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Saify007)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saify007)](https://github.com/anuraghazra/github-readme-stats)
- 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Saify007)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Saify007)  
