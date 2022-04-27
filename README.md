@@ -12,7 +12,6 @@ Skills: REACT / JS / HTML / CSS
 - 📫 How to reach me: saify.abid1000@gmail.com
 - ⚡ Fun fact: If i could have any superpower, it would be  mind reading 
 
-
 <p align="center">
 <a href="mailto:saify.abid1000@gmail.comsaify.abid1000@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-saify.abid1000@gmail.com-red?style=flat&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/saifyabidbhuiyan"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Saify Abid Bhuiyan-blue?style=flat&logo=linkedin"></a>
@@ -38,12 +37,8 @@ Skills: REACT / JS / HTML / CSS
 [![trophy](https://github-profile-trophy.vercel.app/?username=Saify007)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saify007)](https://github.com/anuraghazra/github-readme-stats)
-
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Saify007)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Saify007)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Saify007)  
-
- 
