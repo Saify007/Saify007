@@ -38,5 +38,4 @@ Skills: REACT / JS / HTML / CSS
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Saify007)  
 
-![GitHub metrics](https://metrics.lecoq.io/Saify007)  
 
