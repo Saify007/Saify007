@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Saify
 #### I am a Student and a Full Stack Developer.
 
-Ovation to my profile. I am Saify. I am currently studying in Computer Science Department at AIUB and also looking for an Internship program opportunity. Which might be any sector in Computer Science and help to boost up my knowledge and also uplift my career path. I am enthusiastic about technology and fitness. My favorite activities are learning new things, exploring various types of cooking, and listening to podcasts. I have a big interest in IoT technologies and Web Development. I am also passionate about various types of sports.
+Ovation to my profile. I am Saify. I am currently studying in Computer Science Department at AIUB and also looking for an opportunity. Which might be any sector in Computer Science and help to boost up my knowledge and also uplift my career path. I am enthusiastic about technology and fitness. My favorite activities are learning new things, exploring various types of cooking, and listening to podcasts. I have a big interest in IoT technologies and Web Development. I am also passionate about various types of sports.
 Skills: REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on A web based project  
