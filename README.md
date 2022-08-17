@@ -1,6 +1,6 @@
 ### 
 
- :wave: Hello there , I'm  Saify.
+<h1 align="center">Hi, I'm <a href="https://github.com/Saify007"> Saify <a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 
 
 #### I am a Student and a Software Engineer.
