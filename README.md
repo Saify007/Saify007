@@ -63,6 +63,7 @@ Skills: PHP/ LARAVEL / REACT / JS / HTML / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Saify007)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Saify007)  
+
+<a href="https://github.com/Saify007/github-readme-activity-graph"><img alt="Saify's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Saify007&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
