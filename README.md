@@ -3,10 +3,7 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/Saify007"> Saify <a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 
 
-#### I am a Student and a Software Engineer.
-
-Ovation to my profile. I am Saify. I am currently studying in Computer Science Department at AIUB and also looking for an opportunity. Which might be any sector in Computer Science and help to boost up my knowledge and also uplift my career path. I am enthusiastic about technology and fitness. My favorite activities are learning new things, exploring various types of cooking, and listening to podcasts. I have a big interest in IoT technologies and Web Development. I am also passionate about various types of sports.
-
+I am Saify. I have completed my Master's degree in Computer Science from American International University-Bangladesh (AIUB). I aspire to work in a dynamic and challenging environment where I can leverage my technical expertise, problem-solving skills, and leadership potential to make significant contributions to the team and the organization. Ultimately, I aim to be recognized as a skilled, reliable, and innovative person who is passionate about creating high-quality solutions that positively impact the world. As well as I am also looking for an opportunity that help to boost my knowledge and uplift my career path. My favorite activities are learning new things, exploring various types of technology, and listening to podcasts. I am also passionate about various types of sports.
 
 Skills: PHP/ LARAVEL / REACT / JS / HTML / CSS
 
@@ -18,11 +15,6 @@ Skills: PHP/ LARAVEL / REACT / JS / HTML / CSS
 - 📫 How to reach me: saify.abid1000@gmail.com
 - ⚡ Fun fact: If i could have any superpower, it would be  mind reading 
 
-<div align="center">
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifyabidbhuiyan)
-
-</div>
 
 ### 🎯 Languages and Tools:
 
@@ -39,9 +31,15 @@ Skills: PHP/ LARAVEL / REACT / JS / HTML / CSS
 ### 🤝 Connect with me:
 
 
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifyabidbhuiyan)
+
+</div>
+
 <p align="center">
 <a href="mailto:saify.abid1000@gmail.comsaify.abid1000@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-saify.abid1000@gmail.com-red?style=flat&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/saifyabidbhuiyan"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Saify Abid Bhuiyan-blue?style=flat&logo=linkedin"></a>
+ 
 </p>
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Saify007&label=Profile%20views&color=0e75b6&style=flat" alt="Saify007" /> </p> 
